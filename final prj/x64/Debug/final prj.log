@@ -1,0 +1,2 @@
+﻿  fp.cpp
+C:\Users\jayan\OneDrive\Desktop\data str\final prj\fp.cpp(3,10): error C1083: Cannot open include file: 'sqlite_modern_cpp.h': No such file or directory
